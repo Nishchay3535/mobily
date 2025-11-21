@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1763715906,,"wq"
+|2,0,1763717141,,"wq"
 :q!
 |2,0,1763715783,,"q!"
 :!
@@ -34,30 +34,216 @@ $
 # Registers:
 
 # File marks:
-'0  1  1  ~/five.java
-|4,48,1,1,1763715906,"~/five.java"
+'0  4  0  ~/.gitignore
+|4,48,4,0,1763717141,"~/.gitignore"
 '1  4  0  ~/.gitignore
-|4,49,4,0,1763715818,"~/.gitignore"
-'2  16  0  ~/.git
-|4,50,16,0,1763715783,"~/.git"
-'3  1  7  ~/four.java
-|4,51,1,7,1763714201,"~/four.java"
-'4  3  0  ~/touch.java
-|4,52,3,0,1763713272,"~/touch.java"
-'5  5  26  ~/two.java
-|4,53,5,26,1763556072,"~/two.java"
-'6  12  0  ~/mobliy.java
-|4,54,12,0,1763520731,"~/mobliy.java"
-'7  2  4  ~/mobily.java
-|4,55,2,4,1763474015,"~/mobily.java"
+|4,49,4,0,1763717132,"~/.gitignore"
+'2  1  11  ~/what.xml
+|4,50,1,11,1763717070,"~/what.xml"
+'3  1  1  ~/hi.xml
+|4,51,1,1,1763717026,"~/hi.xml"
+'4  1  4  ~/hello.xml
+|4,52,1,4,1763717005,"~/hello.xml"
+'5  1  1  ~/five.java
+|4,53,1,1,1763715906,"~/five.java"
+'6  4  0  ~/.gitignore
+|4,54,4,0,1763715818,"~/.gitignore"
+'7  4  0  ~/.gitignore
+|4,55,4,0,1763715818,"~/.gitignore"
+'8  16  0  ~/.git
+|4,56,16,0,1763715783,"~/.git"
+'9  1  7  ~/four.java
+|4,57,1,7,1763714201,"~/four.java"
 
 # Jumplist (newest first):
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763717141,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763717132,"~/.gitignore"
+-'  1  11  ~/what.xml
+|4,39,1,11,1763717070,"~/what.xml"
+-'  1  11  ~/what.xml
+|4,39,1,11,1763717070,"~/what.xml"
+-'  1  11  ~/what.xml
+|4,39,1,11,1763717070,"~/what.xml"
+-'  1  11  ~/what.xml
+|4,39,1,11,1763717070,"~/what.xml"
+-'  1  1  ~/hi.xml
+|4,39,1,1,1763717026,"~/hi.xml"
+-'  1  1  ~/hi.xml
+|4,39,1,1,1763717026,"~/hi.xml"
+-'  1  1  ~/hi.xml
+|4,39,1,1,1763717026,"~/hi.xml"
+-'  1  1  ~/hi.xml
+|4,39,1,1,1763717026,"~/hi.xml"
+-'  1  1  ~/hi.xml
+|4,39,1,1,1763717026,"~/hi.xml"
+-'  1  1  ~/hi.xml
+|4,39,1,1,1763717026,"~/hi.xml"
+-'  1  1  ~/hi.xml
+|4,39,1,1,1763717026,"~/hi.xml"
+-'  1  1  ~/hi.xml
+|4,39,1,1,1763717026,"~/hi.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  4  ~/hello.xml
+|4,39,1,4,1763717005,"~/hello.xml"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
+-'  1  1  ~/five.java
+|4,39,1,1,1763715906,"~/five.java"
 -'  1  1  ~/five.java
 |4,39,1,1,1763715906,"~/five.java"
 -'  4  0  ~/.gitignore
 |4,39,4,0,1763715818,"~/.gitignore"
 -'  4  0  ~/.gitignore
 |4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1763715818,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1763715791,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1763715791,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -70,190 +256,36 @@ $
 |4,39,16,0,1763715783,"~/.git"
 -'  16  0  ~/.git
 |4,39,16,0,1763715783,"~/.git"
--'  1  7  ~/four.java
-|4,39,1,7,1763714201,"~/four.java"
--'  1  7  ~/four.java
-|4,39,1,7,1763714201,"~/four.java"
--'  1  7  ~/four.java
-|4,39,1,7,1763714201,"~/four.java"
--'  1  7  ~/four.java
-|4,39,1,7,1763714201,"~/four.java"
--'  1  7  ~/four.java
-|4,39,1,7,1763714201,"~/four.java"
--'  1  7  ~/four.java
-|4,39,1,7,1763714201,"~/four.java"
--'  1  7  ~/four.java
-|4,39,1,7,1763714201,"~/four.java"
--'  1  7  ~/four.java
-|4,39,1,7,1763714201,"~/four.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  3  0  ~/touch.java
-|4,39,3,0,1763713272,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  1  0  ~/touch.java
-|4,39,1,0,1763713254,"~/touch.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  5  26  ~/two.java
-|4,39,5,26,1763556072,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
--'  1  0  ~/two.java
-|4,39,1,0,1763556048,"~/two.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1763717136	0
+	"	4	0
+	^	4	0
+	.	3	8
+	+	3	8
+
+> ~/what.xml
+	*	1763717066	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/hi.xml
+	*	1763717023	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/hello.xml
+	*	1763717001	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
 
 > ~/five.java
 	*	1763715904	0
@@ -261,13 +293,6 @@ $
 	^	1	2
 	.	1	1
 	+	1	1
-
-> ~/.gitignore
-	*	1763715816	0
-	"	4	0
-	^	4	0
-	.	3	8
-	+	3	8
 
 > ~/four.java
 	*	1763714199	0

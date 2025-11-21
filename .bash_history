@@ -64,3 +64,19 @@ git push az master
 git remote add az https://github.com/Nishchay3535/mobily
 git remote -v
 git push az master
+git init
+touch hello.xml
+touch hi.xml
+touch what.xml
+vi .git ignore
+vi .gitignore
+git status
+five.java
+touch five.java
+vi five.java
+git status
+git add.
+git add .
+git status
+git commit -m "files"
+git push az master
